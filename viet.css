@@ -1,0 +1,56 @@
+.menu{
+	width: 100%;
+	height: auto;
+	background:white;
+}
+.menu .ten{
+	width: 50%;
+	height: 50px;
+	background: white;
+	margin: 0 auto;
+	margin-bottom: 15px;
+	margin-top: -30px;
+}
+.ten h3{
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 40px; 
+	color: orange;
+}
+.menu .anh{
+	float: left;
+	width: 32%;
+	height: auto;
+	
+	margin-bottom: 15px;
+}
+.menu .diff{
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.menu .chu{
+	float: left;
+	width: 32%;
+	height: auto;	
+	background: #Dddddd;
+}
+.menu .diss{
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.chu h3{
+	text-transform: uppercase;
+	
+	margin-top: 10px;
+}
+.chu p{
+	font-size: 20px;
+	margin-right: 20px;
+	
+	line-height: 20px;
+}
+.chu a{
+	text-decoration: none;
+	font-size: 20px;
+	background: pink;
+}
